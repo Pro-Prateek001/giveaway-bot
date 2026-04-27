@@ -1,0 +1,270 @@
+2026-04-27 23:58:28,662 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-27 23:58:28,662 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-27 23:58:28,665 - INFO - logging in using static token
+2026-04-27 23:58:30,246 - INFO - Shard ID None has connected to Gateway (Session ID: 4abc8a6d25b7b664745a58fa27ce4aa5).
+2026-04-27 23:58:32,685 - INFO - Logged in as Giveaway Bot#2656
+2026-04-27 23:58:39,113 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-27 23:58:39,114 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-27 23:58:39,116 - INFO - logging in using static token
+2026-04-27 23:58:40,874 - INFO - Shard ID None has connected to Gateway (Session ID: bf2a54b3a8ca58c656d4fa24f621c902).
+2026-04-27 23:58:49,155 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-27 23:58:49,155 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-27 23:58:49,157 - INFO - logging in using static token
+2026-04-27 23:58:50,937 - INFO - Shard ID None has connected to Gateway (Session ID: d7d80c731e0a520be580d1f13f22ab85).
+2026-04-27 23:58:53,298 - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1497667009108770827/commands responded with 429. Retrying in 9.31 seconds.
+2026-04-27 23:59:06,040 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-27 23:59:06,040 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-27 23:59:06,042 - INFO - logging in using static token
+2026-04-27 23:59:07,692 - INFO - Shard ID None has connected to Gateway (Session ID: fd02ae1f42ed052ef03aa04543af47fe).
+2026-04-27 23:59:19,653 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-27 23:59:19,653 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-27 23:59:19,655 - INFO - logging in using static token
+2026-04-27 23:59:21,283 - INFO - Shard ID None has connected to Gateway (Session ID: 9baba1f1a7e2aab79404f3c412a6d6b1).
+2026-04-27 23:59:24,545 - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1497667009108770827/commands responded with 429. Retrying in 8.08 seconds.
+2026-04-27 23:59:35,817 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-27 23:59:35,818 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-27 23:59:35,820 - INFO - logging in using static token
+2026-04-27 23:59:37,692 - INFO - Shard ID None has connected to Gateway (Session ID: cbe59970c95199bee778263a1b6fceb5).
+2026-04-28 00:00:13,271 - INFO - Saved 1 giveaways to storage
+2026-04-28 00:00:14,272 - INFO - Giveaway started: Test by prateekjw
+2026-04-28 00:00:16,127 - INFO - Giveaway join clicked by prateekjw (802076416472252426) for giveaway 1498390827477631009
+2026-04-28 00:00:16,127 - INFO - Saved 1 giveaways to storage
+2026-04-28 00:00:16,128 - INFO - User prateekjw joined giveaway 1498390827477631009
+2026-04-28 00:00:24,720 - INFO - Giveaway ended: Test - Winners: <@802076416472252426>
+2026-04-28 00:00:24,721 - INFO - Saved 0 giveaways to storage
+2026-04-28 00:00:32,846 - INFO - Logged in as Giveaway Bot#2656
+2026-04-28 00:04:31,618 - INFO - Saved 1 giveaways to storage
+2026-04-28 00:04:32,461 - INFO - Giveaway started: 1 by krushingbrp
+2026-04-28 00:04:37,872 - INFO - Saved 0 giveaways to storage
+2026-04-28 00:07:35,449 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:07:35,449 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:07:48,161 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:07:48,161 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:08:03,757 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:08:03,757 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:08:07,248 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:08:07,248 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:08:57,250 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:08:57,250 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:08:57,253 - INFO - logging in using static token
+2026-04-28 00:09:00,131 - INFO - Shard ID None has connected to Gateway (Session ID: 96098bcd5129e35f1701db492a11c1b5).
+2026-04-28 00:09:02,135 - INFO - Loaded 0 giveaways from storage
+2026-04-28 00:09:02,576 - INFO - Logged in as Giveaway Bot#2656
+2026-04-28 00:10:12,884 - INFO - Saved 1 giveaways to storage
+2026-04-28 00:10:13,713 - INFO - Giveaway started: Mcfa by prateekjw
+2026-04-28 00:10:25,692 - INFO - Giveaway join clicked by prateekjw (802076416472252426) for giveaway 1498393342709334116
+2026-04-28 00:10:25,693 - INFO - Saved 1 giveaways to storage
+2026-04-28 00:10:25,693 - INFO - User prateekjw joined giveaway 1498393342709334116
+2026-04-28 00:15:23,279 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:15:23,279 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:15:23,282 - INFO - logging in using static token
+2026-04-28 00:15:24,983 - INFO - Shard ID None has connected to Gateway (Session ID: de35aa495b7b2678a7b595bd7e5193b0).
+2026-04-28 00:15:26,999 - INFO - Loaded 1 giveaways from storage
+2026-04-28 00:15:27,459 - INFO - Logged in as Giveaway Bot#2656
+2026-04-28 00:17:45,291 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2026-04-28 00:17:45,292 - WARNING - davey is not installed, voice will NOT be supported
+2026-04-28 00:17:45,294 - INFO - logging in using static token
+2026-04-28 00:17:47,129 - INFO - Shard ID None has connected to Gateway (Session ID: c1e5f7e51e08b0a3760b90709607e830).
+2026-04-28 00:17:49,140 - INFO - Loaded 1 giveaways from storage
+2026-04-28 00:17:50,460 - INFO - Logged in as Giveaway Bot#2656
+2026-04-28 00:23:26,333 - INFO - Saved 2 giveaways to storage
+2026-04-28 00:23:26,343 - INFO - Saved 2 giveaways to storage
+2026-04-28 00:23:27,136 - INFO - Giveaway started: 1 by prateekjw
+2026-04-28 00:23:27,521 - ERROR - Task exception was never retrieved
+future: <Task finished name='CommandTree-invoker' coro=<CommandTree._from_interaction.<locals>.wrapper() done, defined at C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\tree.py:1136> exception=HTTPException('400 Bad Request (error code: 40060): Interaction has already been acknowledged.')>
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 859, in _do_call
+    return await self._callback(interaction, **params)  # type: ignore
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 440, in gstart
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\tree.py", line 1302, in _call
+    await command._invoke_with_namespace(interaction, namespace)
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 884, in _invoke_with_namespace
+    return await self._do_call(interaction, transformed_values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\commands.py", line 877, in _do_call
+    raise CommandInvokeError(self, e) from e
+discord.app_commands.errors.CommandInvokeError: Command 'gstart' raised an exception: HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\tree.py", line 1138, in wrapper
+    await self._call(interaction)
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\app_commands\tree.py", line 1306, in _call
+    await self.on_error(interaction, e)
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 325, in on_app_command_error
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2026-04-28 00:23:28,441 - INFO - Giveaway join clicked by prateekjw (802076416472252426) for giveaway 1498396670386245694
+2026-04-28 00:23:28,808 - ERROR - Error in enter button: 404 Not Found (error code: 10062): Unknown interaction
+2026-04-28 00:23:29,135 - ERROR - Ignoring exception in view <GiveawayView timeout=None children=2> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Enter Giveaway \U0001f389' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 155, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\ui\view.py", line 598, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 200, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2026-04-28 00:23:31,877 - INFO - Giveaway join clicked by krushingbrp (1096703914067365908) for giveaway 1498396670684299334
+2026-04-28 00:23:32,215 - ERROR - Error in enter button: 404 Not Found (error code: 10062): Unknown interaction
+2026-04-28 00:23:32,545 - ERROR - Ignoring exception in view <GiveawayView timeout=None children=2> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Enter Giveaway \U0001f389' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 155, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\ui\view.py", line 598, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 200, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2026-04-28 00:23:37,547 - INFO - Saved 1 giveaways to storage
+2026-04-28 00:23:41,322 - INFO - Giveaway join clicked by prateekjw (802076416472252426) for giveaway 1498396670684299334
+2026-04-28 00:23:41,332 - INFO - Giveaway join clicked by prateekjw (802076416472252426) for giveaway 1498396670386245694
+2026-04-28 00:23:41,681 - ERROR - Error in enter button: 404 Not Found (error code: 10062): Unknown interaction
+2026-04-28 00:23:42,219 - ERROR - Ignoring exception in view <GiveawayView timeout=None children=2> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Enter Giveaway \U0001f389' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 142, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\ui\view.py", line 598, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 200, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
+2026-04-28 00:23:51,719 - INFO - Giveaway join clicked by prateekjw (802076416472252426) for giveaway 1498396670386245694
+2026-04-28 00:23:52,062 - ERROR - Error in enter button: 404 Not Found (error code: 10062): Unknown interaction
+2026-04-28 00:23:52,390 - ERROR - Ignoring exception in view <GiveawayView timeout=None children=2> for item <Button style=<ButtonStyle.success: 3> url=None disabled=False label='Enter Giveaway \U0001f389' emoji=None row=None sku_id=None id=None>
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 155, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 224, in request
+    raise NotFound(response, data)
+discord.errors.NotFound: 404 Not Found (error code: 10062): Unknown interaction
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\ui\view.py", line 598, in _scheduled_task
+    await item.callback(interaction)
+  File "C:\Users\prate\Downloads\gvwy bot\giveaway_bot.py", line 200, in enter
+    await interaction.response.send_message(
+    ...<2 lines>...
+    )
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\interactions.py", line 1085, in send_message
+    data = await adapter.create_interaction_response(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\prate\Downloads\gvwy bot\.venv\Lib\site-packages\discord\webhook\async_.py", line 226, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 40060): Interaction has already been acknowledged.
